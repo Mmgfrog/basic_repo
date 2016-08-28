@@ -1,0 +1,32 @@
+#container {
+	width: 833px;
+	height: 800px;
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	display: inline-block;
+}
+
+ul {
+	color: white;
+}
+
+ul li {
+	color: white;
+}
+
+p {
+	color: white;
+	display: inline-block;
+}
+
+.pictures {
+	width: 400px;
+	height: 250px;
+	border: solid grey 2px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 5px;
+}
